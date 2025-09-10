@@ -1,0 +1,15 @@
+Mon Aug 11 21:48:00 2025    pop.out
+
+         453855 function calls (429530 primitive calls) in 0.450 seconds
+
+   Ordered by: cumulative time
+   List reduced from 1449 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+    169/1    0.001    0.000    0.450    0.450 {built-in method builtins.exec}
+        1    0.000    0.000    0.450    0.450 financial_enhanced.py:1(<module>)
+    223/2    0.002    0.000    0.450    0.225 <frozen importlib._bootstrap>:1349(_find_and_load)
+    222/2    0.001    0.000    0.450    0.225 <frozen importlib._bootstrap>:1304(_find_and_load_unlocked)
+    195/2    0.001    0.000    0.449    0.225 <frozen importlib._bootstrap>:911(_load_unlocked)
+
+
