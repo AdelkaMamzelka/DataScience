@@ -20,4 +20,4 @@ template = (
     "Forecast heads: {forecast_heads}\n"
 )
 
-Telegram_URL = "https://api.telegram.org/bot8154883104:AAFIXQ-CPSCutvQo7HXHIV2MadvadO9ORqA/sendMessage?chat_id=2029176954&text="
+Telegram_URL = "https://api.telegram.org/bo<token>/sendMessage?chat_id=<...>&text="
